@@ -55,7 +55,7 @@ function App() {
               <li>
                 <a
                   href="https://www.linkedin.com/in/karina-kavaleuskaya-a4a010214/"
-                  className="Soc-link "
+                  className="Soc-link"
                 >
                   <img
                     src={linkedin}
