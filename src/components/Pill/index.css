@@ -1,0 +1,14 @@
+.Personal-skills {
+  margin: 15px 0 15px 0;
+}
+
+.Personal-skills-param {
+  border-radius: 10px;
+  display: inline;
+  padding: 0 20px 0 20px;
+  text-transform: uppercase;
+}
+
+.skill-one {
+  background-color:  rgb(0, 128, 128);
+}

@@ -1,0 +1,33 @@
+.Fancy-line {
+  display: flex;
+  height: 10px;
+  margin: 5px 0 5px 0;
+  margin-bottom: 25px;
+  align-items: center;
+}
+
+.Gray-line {
+  width: 100%;
+  height: 4px;
+  background-color: #dcdcdc;
+}
+
+.Block-title {
+  text-transform: uppercase;
+  font-weight: 900;
+  font-size: 24px;
+}
+
+.Left-block {
+  max-width: 200px;
+  flex: 1;
+}
+
+.Right-block {
+  flex: 3;
+}
+
+.Content {
+  flex: 1.5;
+  min-width: 320px;
+}

@@ -1,0 +1,22 @@
+.WorkExperience {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 25px;
+  width: fit-content;
+}
+
+.WorkTitle {
+  text-align: center;
+  line-height: 29px;
+  font-weight: 600;
+}
+
+.AboutWork {
+  font-weight: 600;
+}
+
+.AboutWork {
+  font-weight: 600;
+  margin-top: 25px;
+}

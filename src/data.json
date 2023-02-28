@@ -1,0 +1,94 @@
+{
+  "lt": {
+    "badge": {
+      "badgeName": "Karina Kavaleuskaya",
+      "profession": "Front-end Programuotoja"
+    },
+    "aboutMe": {
+      "links": "Nuorodos",
+      "about": "Apie mane",
+      "infoAboutMe": "Motyvuota ir darbšti pradedančioji Front-End specialistė. Noras išbandyti savo jėgas skirtingose darbo sferose padėjo man suprasti ko tiksliai norėčiau pasiekti savo gyvenime, todėl pagaliau pradėjau kelią savo senos svajonės link - pasinėriau į IT pasaulį. Nebijau susidurti su sunkumais šiame kelyje, nes tikiu, kad mano darbštumas, noras augti ir tobulėti atvęs mane iki norimų aukštumų."
+    },
+    "education": {
+      "title": "Išsilavinimas",
+      "schoolOne": "CODE ACADEMY",
+      "schoolTwo": "VILNIAUS KOLEGIJA",
+      "schoolThree": "PELESOS LIETUVIŲ VIDURINĖ MOKYKLA",
+      "FrontEnd": "Front-End",
+      "educationLevel": "Profesinis bakalauras (Reklamos vadyba)",
+      "educationSecondLevel": "Pagrindinis išsilavinimas"
+    },
+    "personalSkills": {
+      "titleSkills": "Asmeninės savybės",
+      "firstSkill": "KOMANDINIS DARBAS",
+      "secondSkill": "KOMUNIKACIJA",
+      "thirdSkill": "ORGANIZUOTUMAS"
+    },
+    "technicalSkills": {
+      "technicalTitle": "Techninės savybės"
+    },
+    "workExp": {
+      "workExperience": "Darbo patirtis",
+      "positionOneDate": "2022.03 - 2022.09 UAB 'GIRTEKA LOGISTICS'",
+      "positionOneTitle": "Klientų aptarnavimo vadybininkė",
+      "positionTwoDate": "2018.01 - 2021.12 UAB 'DECATHLON'",
+      "positionTwoTitle": "Rinkodaros turinio ir bendruomenės vystymo vadybininkė",
+      "positionThreeDate": "2016.11 - 2018.12 UAB 'IKEA'",
+      "positionThreeTitle": "Virtuvių baldų planuotoja",
+      "descriptionOne": "Bendradarbiavimas su esamais klientais telefonu bei el. paštu, santykių su esamais klientais palaikymas bei kokybiškas ir profesionalus jų aptarnavimas, krovinių pervežimo organizavimas, operatyvus bendradarbiavimas su kolegomis, sprendžiant įvairias situacijas, kylančias krovinių transportavimo metu, ataskaitų ir dokumentų administravimas, darbas su įmonės vidinėmis ir klientų sistemomis (SAP, AX).",
+      "descriptionTwo": "Darbas su socialiniais tinklais, socialinių tinklų strategijos kurimas, jos vystymas bei įgyvendinimas derinant su įmonės verslo tikslais, turinio kalendoriaus, skirto „Facebook“, „Instagram“, „LinkedIn“ platformoms kurimas, bendravimas su puslapių sekėjais, atsakymas į klientų užklausas socialiniuose tinkluose, įrašų koordinavimas ir paruošimas, reklaminių kampanijų kurimas ir valdymas, pagalba sporto lyderiams rengiant komunikacijos planus, renginių planavimas ir organizavimas.",
+      "descriptionThree": "Paslaugus ir profesionalus pirkėjų konsultavimas baldų planavimo ir įsigijimo klausimais, baldų projektavimas kompiuterine 3D programa, informacijos suteikimas pirkėjams, tvarkos skyriuje palaikymas."
+    },
+    "footer": {
+      "country": "Šalis",
+      "contacts": "Kontaktai",
+      "socials": "Socialiniai tinklai"
+    }
+  },
+  "en": {
+    "badge": {
+      "badgeName": "Karina Kavaleuskaya",
+      "profession": "Front-end Developer"
+    },
+    "aboutMe": {
+      "links": "Links",
+      "about": "About me",
+      "infoAboutMe": "Motivated and hardworking junior Front-End specialist. The desire to try my hand at different fields of work helped me understand what exactly I would like to achieve in my life, so I finally started the path towards my old dream - I immersed myself in the IT world. I am not afraid to face difficulties on this path, because I believe that my hard work, desire to grow and improve will bring me to the desired heights."
+    },
+    "education": {
+      "title": "Education",
+      "schoolOne": "CODE ACADEMY",
+      "schoolTwo": "VILNIUS COLLEGE",
+      "schoolThree": "PELESA LITHUANIAN SECONDARY SCHOOL",
+      "FrontEnd": "Front-End Development",
+      "educationLevel": "Profesional bachelor's degree (Advertising management)",
+      "educationSecondLevel": "Secondary education"
+    },
+    "personalSkills": {
+      "titleSkills": "Personal skills",
+      "firstSkill": "TEAMWORK",
+      "secondSkill": "COMMUNICATION",
+      "thirdSkill": "ORGANIZATION"
+    },
+    "technicalSkills": {
+      "technicalTitle": "Technical skills"
+    },
+    "workExp": {
+      "workExperience": "Work experience",
+      "positionOneDate": "2022.03 - 2022.09 UAB 'GIRTEKA LOGISTICS'",
+      "positionOneTitle": "Customer care specialist",
+      "positionTwoDate": "2018.01 - 2021.12 UAB 'DECATHLON'",
+      "positionTwoTitle": "Content and community leader",
+      "positionThreeDate": "2016.11 - 2018.12 UAB 'IKEA'",
+      "positionThreeTitle": "Kitchen furniture planner",
+      "descriptionOne": "Cooperation with existing customers by phone and e-mail, maintaining relations with existing customers and providing them with high-quality and professional service, organizing cargo transportation, prompt cooperation with colleagues in solving various situations arising during cargo transportation, administration of reports and documents, work with the company's internal and customer systems (SAP, AX).",
+      "descriptionTwo": "Working with social networks, creating a social network strategy, its development and implementation in line with the company's business goals, creating a content calendar for 'Facebook', 'Instagram', 'LinkedIn' platforms, communicating with page followers, responding to customer inquiries on social networks, coordination and preparation of records, creation and management of advertising campaigns, assistance to sports leaders in preparing communication plans, planning and organization of events.",
+      "descriptionThree": "Helpful and professional advice to buyers on furniture planning and purchase issues, furniture design using a computer 3D program, providing information to buyers and answering all the questions regarding their kitchen design."
+    },
+    "footer": {
+      "country": "Country",
+      "contacts": "Contacts",
+      "socials": "Socials"
+    }
+  }
+}
